@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { Col, Grid, Row } from 'react-bootstrap';
+import { Link, NavLink } from 'react-router-dom';
+
 
 export class Home extends Component {
   displayName = Home.name
